@@ -1,0 +1,13 @@
+body{
+    
+}
+.navbar{
+    position: relative;
+}
+.navbar .navbar-nav{
+    margin-top: 10px;
+}
+.hero-logo{
+    position: absolute;
+    top:-45px;
+}
